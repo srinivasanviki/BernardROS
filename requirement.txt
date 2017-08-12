@@ -1,0 +1,3 @@
+ikpy==2
+moveit==0.7.5
+pyros_setup==0.2.1

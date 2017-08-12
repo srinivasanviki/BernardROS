@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="BernadoInverseKinematics" type="InverseKinematics.py" name="BernadoInverseKinematics">
+  </node>
+</launch>
